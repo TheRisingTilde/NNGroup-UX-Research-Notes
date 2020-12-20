@@ -55,7 +55,7 @@ The original YouTube playlist can be found [here](https://www.youtube.com/playli
   - The goal is to understand what precisely is working and not working, and why?
   - Used frequently to support iterations through the design process:
 
-<img src="img/design_101.png" width=400px class="center">
+<img src="../img/design_101.png" width=400px class="center">
 
   - Use early on in the design process
 - Summative: Tells you overall how your design works - compared to your competitors and benchmark
