@@ -12,7 +12,7 @@ img {
 
 The original YouTube playlist can be found [here](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idtiMTz8fAiF1ElcKJM7Rncj)
 
-**Disclaimer:** The following content is neither sponsored nor endorsed by the Nielson Norman Group. Rather TheRisingTilde has provided these notes as an educational resources to be accompanied with the original playlist. 
+**Disclaimer:** The following content is neither sponsored nor endorsed by the [Nielson Norman Group](http://nngroup.com/). Rather [TheRisingTilde](https://medium.com/the-rising-tilde) has provided these notes as an educational resource to be accompanied with the original playlist. 
 
 ## User Testing
 
