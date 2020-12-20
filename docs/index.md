@@ -55,7 +55,7 @@ The original YouTube playlist can be found [here](https://www.youtube.com/playli
   - The goal is to understand what precisely is working and not working, and why?
   - Used frequently to support iterations through the design process:
 
-<img src="../img/design_101.png" width=400px class="center">
+<img src="img/design_101.png" width=400px class="center">
 
   - Use early on in the design process
 - Summative: Tells you overall how your design works - compared to your competitors and benchmark
@@ -221,7 +221,7 @@ The original YouTube playlist can be found [here](https://www.youtube.com/playli
     - Understandable
     - Usable
 
-![](RackMultipart20201220-4-qk8cb_html_e5a6cf4c580145c8.png)
+<img src="img/behavioral_methods.png" width=400px class="center">
 
   - Tempting to ask user directly what they think during the prototyping phase → try and avoid this
   - Instead, direct the user to try and do something
@@ -232,7 +232,7 @@ The original YouTube playlist can be found [here](https://www.youtube.com/playli
     - Surveys
     - Focus groups
 
-![](RackMultipart20201220-4-qk8cb_html_a774d326f3824479.png)
+<img src="img/attitudinal_methods.png" width=400px class="center">
 
 - Quantitative: metrics and numbers
   - Answers &quot;How many&quot; and &quot;How much&quot;
@@ -258,7 +258,7 @@ The original YouTube playlist can be found [here](https://www.youtube.com/playli
     - Diary studies
 - Controlled or contextual user environment
 
-![](RackMultipart20201220-4-qk8cb_html_e378466a520a01c9.png)
+<img src="img/controlled_environments.png" width=400px class="center">
 
 ## How to avoid bias in card sorting
 
