@@ -221,7 +221,7 @@ The original YouTube playlist can be found [here](https://www.youtube.com/playli
     - Understandable
     - Usable
 
-<img src="img/behavioral_methods.png" width=400px class="center">
+<img src="img/behavioral_methods.png" width=500px class="center">
 
   - Tempting to ask user directly what they think during the prototyping phase → try and avoid this
   - Instead, direct the user to try and do something
@@ -232,7 +232,7 @@ The original YouTube playlist can be found [here](https://www.youtube.com/playli
     - Surveys
     - Focus groups
 
-<img src="img/attitudinal_methods.png" width=400px class="center">
+<img src="img/attitudinal_methods.png" width=500px class="center">
 
 - Quantitative: metrics and numbers
   - Answers &quot;How many&quot; and &quot;How much&quot;
@@ -258,7 +258,7 @@ The original YouTube playlist can be found [here](https://www.youtube.com/playli
     - Diary studies
 - Controlled or contextual user environment
 
-<img src="img/controlled_environments.png" width=400px class="center">
+<img src="img/controlled_environments.png" width=500px class="center">
 
 ## How to avoid bias in card sorting
 
