@@ -14,6 +14,9 @@ The original YouTube playlist can be found [here](https://www.youtube.com/playli
 
 **Disclaimer:** The following content is neither sponsored nor endorsed by the [Nielson Norman Group](http://nngroup.com/). Rather [TheRisingTilde](https://medium.com/the-rising-tilde) has provided these notes as an educational resource to be accompanied with the original playlist. 
 
+* Download the [pdf](downloads/UX_Research_Methods_and_Usability_Testing.pdf)
+* Download the [docx](downloads/UX_Research_Methods_and_Usability_Testing.docx)
+
 ## User Testing
 
 - You (the software engineer or the business) are never the user → you know too much.
